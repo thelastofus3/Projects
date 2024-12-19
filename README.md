@@ -9,7 +9,7 @@ deploy: (https://thelastofus3.github.io/3DVideoConference/)
 deploy: (https://thelastofus3.github.io/GaussianSplatting/)
 
 ## 3. Проект 3: [Название проекта 3](https://github.com/your-username/project3)
-Описание проекта 3.
+deploy: ()
 
-## 4. Проект 4: [Название проекта 4](https://github.com/your-username/project4)
-Описание проекта 4.
+## 4. Project 4: [Name of project 4](https://github.com/your-username/project4)
+deploy: (Coming soon)
