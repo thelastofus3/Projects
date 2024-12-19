@@ -1,4 +1,4 @@
-# My Projects
+# GaussianSplatting Projects
 
 Repo with all projects
 
